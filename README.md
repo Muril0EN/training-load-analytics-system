@@ -1,4 +1,4 @@
-# Training Load Analytics & Monitoring System
+# Training Load Analytics & Prescription Platform
 
 > **Note:** This is a proprietary project and the core technology of a startup venture. The source code is private, but this documentation serves as a technical case study of my development capabilities.
 
@@ -21,4 +21,20 @@ A full-stack data solution designed to monitor, analyze, and visualize strength 
 This system is currently the foundation of a startup, helping users optimize performance through data-driven decision-making.
 
 ---
+
+## 📊 System Modules & Interface
+This platform consists of 8 interactive dashboards. Below are some of the core modules:
+
+| 📋 Prescription Engine | 📈 Load Analysis over Time |
+|:---:|:---:|
+| <img src="prescription.png" width="400"> | <img src="mainPrint.png" width="400"> |
+| *Module for dynamic exercise prescription* | *Longitudinal load tracking* |
+
+| ⏱️ Activity Control | 🧬 Physiological Metrics |
+|:---:|:---:|
+| <img src="loadControl.png" width="400"> | <img src="performance.png" width="400"> |
+| *Multi-activity load management* | *Real-time data visualization* 
+
+---
+
 *For inquiries regarding the architecture or specific logic used in this project, feel free to contact me via LinkedIn.*
