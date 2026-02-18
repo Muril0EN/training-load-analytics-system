@@ -23,17 +23,17 @@ This system is currently the foundation of a startup, helping users optimize per
 ---
 
 ## 📊 System Modules & Interface
-This platform consists of 8 interactive dashboards. Below are some of the core modules:
+The platform features 8 interactive dashboards. Below are the core modules demonstrating the transition from prescription to holistic analysis:
 
-| 📋 Prescription Engine | 📈 Load Analysis over Time |
+| 📋 Prescription & Modeling | 📈 Performance Overview |
 |:---:|:---:|
-| <img src="prescription.png" width="400"> | <img src="mainPrint.png" width="400"> |
-| *Module for dynamic exercise prescription* | *Longitudinal load tracking* |
+| <img src="prescription.png" width="400"> | <img src="performance.png" width="400"> |
+| *The system transforms prescriptions into graphs for easier interpretation.* | *A holistic view of the athlete's status, summarizing key performance indicators (KPIs).* |
 
-| ⏱️ Activity Control | 🧬 Physiological Metrics |
+| ⚖️ Load Control (Internal/External) | 🔄 Multi-activity Management |
 |:---:|:---:|
-| <img src="loadControl.png" width="400"> | <img src="performance.png" width="400"> |
-| *Multi-activity load management* | *Real-time data visualization* 
+| <img src="mainPrint.png" width="400"> | <img src="loadControl.png" width="400"> |
+| *Detailed tracking of training tonnage and internal load markers to monitor physiological stress.* | *Integration of all physical activities into a single ecosystem for total load management.* | 
 
 ---
 
